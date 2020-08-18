@@ -8,4 +8,5 @@ Hashing.ipynb contains all the steps explained
 
 Requirements :
 
-Hashlib
+Python3
+Hashlib(pip install hashlib)
